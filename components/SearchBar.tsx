@@ -34,7 +34,7 @@ const SearchBar = () => {
     try {
       setIsLoading(true);
 
-      //scrap first page logic
+      //scrae page functionality
     } catch (error) {
       console.log(error);
     } finally {
